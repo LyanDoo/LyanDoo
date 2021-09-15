@@ -1,6 +1,14 @@
-- 👋 Hi, I’m Rolyando Suhendro
-- 👀 I’m interested in Machine Learning, and other Back-End stuff
-- 📫 You can reach me at rolyandos@gmail.com
+An undergraduate student, majoring in Informatics , who had  interest in 
+<ul>
+  <li>Machine Learning</li>
+  <li>Data Science</li>
+  <li>All Back End Stuff</li>
+</ul>
+<br/>
+and also i'm programmer who prefer milk rather than coffee 😊😊
+<br/><br/>
+You can reach me via:<br/>
+- 📧 email: rolyandos@gmail.com
 
 <!---
 LyanDoo/LyanDoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
