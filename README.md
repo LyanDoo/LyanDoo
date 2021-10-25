@@ -1,4 +1,4 @@
-An undergraduate student, majoring in Informatics , who had  interest in 
+<i><b>An undergraduate student, majoring in Informatics , who had  interest in</b></i> 
 <ul>
   <li>Machine Learning</li>
   <li>Data Science</li>
@@ -7,7 +7,7 @@ An undergraduate student, majoring in Informatics , who had  interest in
 <br/>
 and also i'm programmer who prefer milk rather than coffee 😊😊
 <br/><br/>
-You can reach me via:<br/>
+Feel free to reach me via:<br/>
 - 📧 email: rolyandos@gmail.com
 
 <!---
