@@ -1,4 +1,4 @@
-<i><b>An undergraduate student, majoring in Informatics , who had  interest in</b></i> 
+<i><b>Undergraduate student, majoring in Informatics , who had  interest in</b></i> 
 <ul>
   <li>Machine Learning</li>
   <li>Data Science</li>
