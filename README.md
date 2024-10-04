@@ -1,14 +1,10 @@
-<i><b>Undergraduate student, majoring in Informatics , who had  interest in</b></i> 
-<ul>
-  <li>Machine Learning</li>
-  <li>Data Science</li>
-  <li>All Back End Stuff</li>
-</ul>
-<br/>
-and also i'm programmer who prefer milk rather than coffee 😊😊
-<br/><br/>
-Feel free to reach me via:<br/>
-- 📧 email: rolyandos@gmail.com
+Currently undergraduate student. Junior level Data and Machine Learning.
+
+Love Cyber 'Blue' Things. Dig Forensic, Reverse Engineering, and Cryptography
+
+> Dissecting Malware using Deep Learning
+
+
 
 <!---
 LyanDoo/LyanDoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
